@@ -1,0 +1,35 @@
+.main{
+  border: 2px solid black;
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+.result{
+  width: 93%;
+  background-color: #555755;
+  color: white;
+  margin: 3px;
+}
+.clearBtn{
+  width: 95%;
+  margin: 4px;
+  background-color: #e8524a;
+}
+.btn{
+  width: 45px;
+  background-color: #7cc1e6;
+  margin: 1px;
+  border-radius: 4px;
+}
+.halfbtn{
+  background-color: #7cc1e6;
+  width: 62px;
+  margin: 1px;
+  border-radius: 4px;
+}
+.heading{
+  text-align: center;
+  /* margin: 1px; */
+  color: black;
+  font-size: 15px;
+}
